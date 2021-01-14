@@ -1,0 +1,89 @@
+.home {
+    display: flex;
+    flex-direction: column; 
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.home-background {
+    width: 100%;
+    height: 100%;
+}
+
+.home-title {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-text-box {
+    height: 200px;
+    width: 300px;
+    align-content: left;
+    background-color: transparent;
+}
+.home-text {
+    color: white;
+}
+
+.home-header {
+    color: white;
+}
+
+.home-header {
+    color: white;
+}
+
+.home-content-1 {
+    height: 500px; 
+    width: 100%;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    border: white solid 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-content-2 {
+    height: 500px; 
+    width: 100%;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+    border: white solid 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-line {
+    height: 1px;
+    background-color: white;
+    width: 440px;
+    margin-bottom: 15px;
+}
+
+.home-flex {
+    flex: 1;
+}
+
+.home-arsenal-picture {
+    height: 282px;
+    width: 240px;
+}
+
+.background {
+    width: 1280px;
+    height: 610px;
+    max-width: auto;
+    max-height: auto;
+}
